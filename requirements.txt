@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+streamlit
+mplfinance
+pandas-datareader
