@@ -30,7 +30,7 @@ import mplfinance as mpf
 
 
 plt.style.use('fivethirtyeight')
-
+st.set_option('deprecation.showPyplotGlobalUse', False)
 
 stocks = [
     'AMD',
